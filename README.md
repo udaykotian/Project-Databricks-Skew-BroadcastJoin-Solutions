@@ -76,4 +76,4 @@ Explore the code and output to understand how broadcast joins optimize performan
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details (add a LICENSE file if desired).
+This project is licensed under the MIT License.

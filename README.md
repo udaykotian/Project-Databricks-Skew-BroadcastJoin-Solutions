@@ -1,7 +1,3 @@
-# Project-Databricks-Skew-BroadcastJoin-Solutions
-
-A Spark project analyzing broadcast joins to mitigate data skew in Databricks.
-
 # Project: Databricks Skew Broadcast Join Solutions
 
 This repository contains a Jupyter notebook that demonstrates solutions for handling **data skew** in **broadcast joins** using Apache Spark on Databricks. By analyzing the Online Retail Dataset, this project optimizes join operations to improve performance in Spark environments.
